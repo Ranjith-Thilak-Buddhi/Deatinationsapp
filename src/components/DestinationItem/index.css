@@ -1,0 +1,13 @@
+.item-container {
+  margin: 15px;
+}
+
+.item-img {
+  height: 200px;
+}
+
+.item-name {
+  color: #000000;
+  font-family: 'Open Sans';
+  font-size: 18px;
+}
